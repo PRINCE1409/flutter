@@ -25,7 +25,7 @@ myapp() {
     title: mytext,
     backgroundColor: Colors.amber,
     leading: myalarmicon,
-    actions: <Widget>[myandroidicon, myalarmicon],
+    actions: <Widget>[MyButton1, MyButton2],
   );
 
   var url =
